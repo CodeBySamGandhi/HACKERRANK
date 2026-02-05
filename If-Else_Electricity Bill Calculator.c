@@ -21,4 +21,4 @@ int main() {
   }
   printf("The electricity bill is: %.2f.",bill);
   return 0;
-  }
+}
